@@ -1,0 +1,51 @@
+Justin Hollmer - Slapjack
+
+// How to play
+
+First, have the dealer deal out the deck evenly to every person playing.
+If there are 2 people playing and you have 52 cards in a deck;
+  Give 26 cards to each player;
+    Else a different number of cards and/or a different number of players take the total number of cards and divide it by the amount of players playing.
+Each perosn playing has all of their cards in front of them. (face down so that nobody, no even the player possessing them can see)
+The order of the circle (or other polygon) goes counterclockwise. 
+If there are only 2 people;
+  Just go back and forth.
+    Else just go in a counterclockwise order. 
+    
+With all of the cards facedown the first player, without looking at the card, grabs the first one off the top and slaps it down on the play surface.
+With no delay the other player grabs his/her top card and slaps it down on top of the preceding card.
+The value of the card does not matter, unless it's a Jack.
+
+If jack appears:
+  If you notice:
+    If you slap first: 
+      You win the cards.
+    Else if they slap first:
+      They win the cards.
+    Else if both slap at the same time:
+      The player with their hand on the bottom wins the cards.
+    Else if Jack is buried:
+      Just keep playing.
+
+If you win the cards:
+  Take the Jack along with every card under it.
+Else if they win the cards:
+  They take the Jack along with every card under it.
+  
+Add the cards to your pile.
+If one player has all of the cards:
+  Given player wins.
+If one player runs out of cards:
+  Given player can slap the next Jack to get back into the game.
+If one player is out of cards:
+  If player does not slap next Jack:
+    Given Player is out of the game and loses.
+    
+If player slaps card other than Jack:
+  Given Player gives one card off the top, face down, to the player who placed the slapped card.
+  
+If all cards are placed:
+  If no Jack has been slapped:
+    Dealer takes all placed cards, shuffles them face down, and redeals all currently played cards.
+    
+The game is over when one player possesses all of the cards.
